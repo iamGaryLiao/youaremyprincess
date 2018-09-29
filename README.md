@@ -1,1 +1,1 @@
-![IMAGE](https://github.com/iamGaryLiao/youaremyprincess/blob/master/image.jpeg)
+![image](youaremyprincess/image.jpeg)
